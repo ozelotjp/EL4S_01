@@ -3,7 +3,7 @@
 ３名１チームとして作成しました。
 
 * ReE=Rishun ([GitHub](https://github.com/ree-rishun/), [Twitter](https://twitter.com/reerishun/))
-* ゆ🐔🍗 ([GitHub](), [Twitter](https://twitter.com/you_v_kuku/))
+* ゆ🐔🍗 ([GitHub](https://github.com/younoon), [Twitter](https://twitter.com/you_v_kuku/))
 * オセロット ([GitHub](https://github.com/ozelotjp), [Twitter](https://twitter.com/ozelotjp/))
 
 ## 開発方法
