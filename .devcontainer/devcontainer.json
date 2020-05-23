@@ -29,7 +29,7 @@
     ],
     "vetur.format.defaultFormatter.html": "prettier"
   },
-  "postCreateCommand": "apk add git bash",
+  "postCreateCommand": "apt update && apt install -y git wget && wget -O ~/vsls-reqs https://aka.ms/vsls-linux-prereq-script && chmod +x ~/vsls-reqs && ~/vsls-reqs",
   // Docker-Compose
   "dockerComposeFile": "../docker-compose.yml",
   "service": "app",
